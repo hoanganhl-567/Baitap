@@ -1,8 +1,19 @@
 {
   "products": [
-    { "id": 1, "name": "Bàn phím", "price": 250000 },
-    { "id": 2, "name": "Chuột", "price": 150000 },
-    { "id": 3, "name": "Tai nghe", "price": 450000 },
-    { "id": 4, "name": "Màn hình", "price": 3200000 }
+    { "id": "1", "name": "Bàn học gỗ", "price": 1200000, "isDeleted": false },
+    { "id": "2", "name": "Ghế văn phòng", "price": 850000, "isDeleted": false },
+    { "id": "3", "name": "Đèn bàn LED", "price": 320000, "isDeleted": false },
+    { "id": "4", "name": "Kệ sách 5 tầng", "price": 670000, "isDeleted": false },
+    { "id": "5", "name": "Tủ quần áo mini", "price": 2100000, "isDeleted": false },
+    { "id": "6", "name": "Máy xay sinh tố", "price": 540000, "isDeleted": false },
+    { "id": "7", "name": "Nồi chiên không dầu", "price": 1850000, "isDeleted": false },
+    { "id": "8", "name": "Bình giữ nhiệt", "price": 260000, "isDeleted": false },
+    { "id": "9", "name": "Thảm trải sàn", "price": 480000, "isDeleted": false },
+    { "id": "10", "name": "Quạt điều hòa", "price": 2300000, "isDeleted": false },
+    { "id": "11", "name": "Máy lọc không khí", "price": 3100000, "isDeleted": false },
+    { "id": "12", "name": "Gối memory foam", "price": 390000, "isDeleted": false },
+    { "id": "13", "name": "Chăn lông cừu", "price": 760000, "isDeleted": false },
+    { "id": "14", "name": "Bàn trà sofa", "price": 1450000, "isDeleted": false },
+    { "id": "15", "name": "Đồng hồ treo tường", "price": 520000, "isDeleted": false }
   ]
 }
