@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 1, "name": "Bàn phím", "price": 250000 },
+    { "id": 2, "name": "Chuột", "price": 150000 },
+    { "id": 3, "name": "Tai nghe", "price": 450000 },
+    { "id": 4, "name": "Màn hình", "price": 3200000 }
+  ]
+}
